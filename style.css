@@ -1,0 +1,172 @@
+body {
+  margin: 0;
+  height: 100%;
+  color: red;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+
+#header {
+  color: green;
+  margin: 0;
+}
+
+.jest-lite-report__errors {
+  display: none
+}
+
+#background {
+  margin: 0px;
+  height: 500px;
+  border: 2px solid red;
+  border-radius: 10px;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Flearn%2Fbackground-design%2F&psig=AOvVaw1hxPM7hGdEwSZ3mFwi88v_&ust=1680872760219000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKif15Cplf4CFQAAAAAdAAAAABAE');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 1px;
+  background-image: url("https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=1060&t=st=1680707610~exp=1680708210~hmac=1c97844cb7a8bec1c236beeb213947b3ef1fac14eccc3b7880b75cd1bae42d68");
+  background-color: #cccccc;
+}
+
+#title {
+  margin-top: 1px;
+  font: 3em italic;
+  color: #fd3333;
+  text-shadow: +1px +1px;
+}
+
+#subtitle {
+  color: green;
+  font-style: bold italic;
+  font-family: 1.5em 'Courier New', Courier, monospace;
+  position: absolute;
+  left: 515px;
+  top: 120px;
+}
+
+#description {
+  color: rgb(187, 13, 13);
+  font-size: small;
+  text-shadow: -1px +1px;
+  font: 1.3em sans-serif;
+  width: 900px;
+  margin: auto;
+  
+}
+
+#cood {
+
+  border: 0px solid red;
+  margin: 0px;
+  padding: 20px;
+  margin: 1px;
+  font: 3em italic;
+  color: #fd3333;
+  text-shadow: +1px +1px;
+
+  text-align: center;
+  width: 100px;
+  height: 100px border 3px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+
+
+}
+
+#p {
+  font: 0px;
+  margin: 0;
+  size: 0cap;
+  font-size: 0%;
+}
+
+h1 {
+  margin: 20px;
+}
+
+#footer {
+  display: block;
+  size: auto;
+  width: 100%;
+  margin: 1px 3px;
+  border: solid blue 3px;
+  border-radius: 3%;
+  background-image: url("https://static-cse.canva.com/blob/572639/1.magebyRodionKutsaevviaUnsplash.cd1d3787.avif")
+  
+}
+
+#footerimg {
+  border-radius: 50%;
+  width: 160px;
+
+}
+
+
+#box {
+  margin: 3px 10px 20px 10px;
+ position: absolute; 
+ left: 510px;
+ bottom: 170px;
+ margin: 0px 50px;
+ padding: 20px;
+
+
+}
+
+#p5 {
+  border: solid red 2px;
+  border-radius: 3%;
+  margin: 30px;
+  padding: 5cm;
+  padding: 3px;
+  color: orange ;
+  font: caption;
+  font-size: 25px;
+  text-shadow: 0 0 3px #FF0000;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-image: solid brown 2px;
+  background-color:Ultramarine;
+}
+#call {
+  color: #fd3333;
+  
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  margin: 10px;
+  border: 2px;
+}
+#php{
+  color: #fd3333;
+  margin: left;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+    position:absolute;
+    top: 610px;
+    left: 0px;
+  right: 000px;
+}
+.gifcode{
+  border: solid red 1px;
+  border-radius: 100px;
+  margin: 3px 80px ;
+}
